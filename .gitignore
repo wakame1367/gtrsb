@@ -1,0 +1,6 @@
+grstb_dataset/
+logs/*
+.idea/*
+*.h5
+Pipfile
+Pipfile.lock
